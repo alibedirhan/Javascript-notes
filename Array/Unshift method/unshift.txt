@@ -1,0 +1,4 @@
+* Like push() method, but this method adds new items to the beginning of an array, and returns the new length.
+
+* This method changes the length of an array.
+

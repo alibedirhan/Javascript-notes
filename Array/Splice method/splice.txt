@@ -1,0 +1,3 @@
+* array.splice(origin index, howmany index, optional new item(s) to be added to the array)
+
+* The splice() method adds/removes items to/from an array, and returns the removed item(s)

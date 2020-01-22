@@ -1,0 +1,4 @@
+* array is a variables created to keep one more than data
+
+* There are three different methods are used to write the array.
+
